@@ -1,264 +1,322 @@
-# RecapVox
+<p align="center">
+  <a href="https://recapvox.com">
+    <img
+      src="assets/recapvox-banner.png"
+      alt="RecapVox — AI voice cloning for long-form narration"
+      width="100%"
+    />
+  </a>
+</p>
 
-### AI voice cloning built for long-form narration.
+<p align="center">
+  <a href="https://recapvox.com">
+    <img src="https://img.shields.io/badge/status-live-22c55e" alt="Live">
+  </a>
+  <a href="https://app.recapvox.com/#/login">
+    <img src="https://img.shields.io/badge/start-free-6366f1" alt="Start Free">
+  </a>
+  <a href="https://recapvox.com/pricing">
+    <img src="https://img.shields.io/badge/free-20_min%2Fmonth-8b5cf6" alt="20 free minutes">
+  </a>
+  <a href="https://recapvox.com/safety">
+    <img src="https://img.shields.io/badge/voice_safety-consent_required-blue" alt="Voice Safety">
+  </a>
+</p>
 
-**Clone your voice. Paste your script. Generate the narration. Fix one line without redoing the entire take.**
-
-RecapVox is an AI narration studio for YouTube creators, course creators, and anyone producing long-form voiceovers in their own voice.
-
-[**Start Free →**](https://app.recapvox.com/#/login) · [Website](https://recapvox.com/) · [Hear Demos](https://recapvox.com/#demos) · [Pricing](https://recapvox.com/pricing)
+<p align="center">
+  <a href="https://recapvox.com/#demos">Hear it</a>
+  ·
+  <a href="#why-recapvox">Why RecapVox</a>
+  ·
+  <a href="#how-it-works">How it works</a>
+  ·
+  <a href="#built-for-long-form">Features</a>
+  ·
+  <a href="https://recapvox.com/pricing">Pricing</a>
+  ·
+  <a href="https://recapvox.com/faq">FAQ</a>
+</p>
 
 ---
 
-## A 40-minute voiceover shouldn't take four hours.
+**Clone your voice once. Narrate every script. Fix one line without redoing the whole take.**
 
-Traditional narration means recording, stopping, re-recording, cleaning audio, and going back to the microphone every time the script changes.
+RecapVox is an AI voice cloning studio built for long-form creators. Paste a script, generate narration in your own voice, regenerate individual lines, and export finished audio for your editor.
 
-Generic text-to-speech solves the recording problem, but often creates another one: **it doesn't sound like your channel.**
+Built for YouTube recaps, anime and lore channels, movie explainers, video essays, courses, tutorials, and other narration-heavy content.
 
-RecapVox is built for the workflow in between.
-
-```text
-Your Voice → Your Script → Generate → Fix Individual Lines → Export
-```
-
-Clone your own voice from a short reference, generate long-form narration segment by segment, and retake only the parts that need fixing.
+<p align="center">
+  <a href="https://app.recapvox.com/#/login"><strong>Start Free →</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://recapvox.com/#demos">Hear the demos</a>
+</p>
 
 ---
 
-## Why RecapVox?
+## Why RecapVox
+
+A 40-minute voiceover shouldn't take four hours.
+
+Recording yourself means mic setup, retakes, cleanup, and going back to the microphone every time a script changes.
+
+Generic TTS removes the microphone, but it also removes the voice your audience recognizes.
+
+**RecapVox gives you your voice with a workflow built for long-form narration.**
 
 | Recording yourself | Generic TTS | **RecapVox** |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Mic setup | Generic voice | **Your own voice** |
-| Manual retakes | Robotic pacing | **Consistent narration** |
-| Noise cleanup | Mispronounced names | **Saved pronunciations** |
-| Re-record changed sections | Regenerate large takes | **Regenerate one line** |
-| Hours behind the mic | Little workflow control | **Built for long scripts** |
-
-### Change one line. Not forty minutes.
-
-RecapVox breaks long scripts into manageable segments.
-
-If one sentence sounds wrong, a name is mispronounced, or the script changes at the last minute, regenerate **that segment only** and keep everything else.
+| Manual retakes | Robotic delivery | **Consistent narration** |
+| Re-record changed lines | Mispronounced names | **Saved pronunciations** |
+| Hours behind the mic | Regenerate large takes | **Regenerate one line** |
+| Manual audio workflow | Limited control | **Built for long scripts** |
 
 ---
 
-## Built for creators who publish constantly
+## Change one line. Not forty minutes.
 
-### 🎙 Clone your voice
+RecapVox splits long scripts into manageable segments.
 
-Upload or record a clean **3–15 second reference clip** and create a reusable voice for narration.
+If a sentence sounds wrong, a name needs fixing, or your script changes five minutes before upload, regenerate **only that segment**.
 
-### 📝 Generate long-form scripts
-
-Paste your script and let RecapVox break it into manageable sections for generation and review.
-
-### ↻ Retake individual lines
-
-Edit or regenerate a single segment without recreating the rest of the voiceover.
-
-### 🔤 Save pronunciations
-
-Teach RecapVox names, places, character names, and recurring terminology once.
+The rest of your narration stays untouched.
 
 ```text
-Sung Jin-Woo → sung jeen-woo
-Cha Hae-In    → chah hay-een
-Shinjuku      → shin-joo-koo
+11  Everything looked normal — until the system message arrived.      ✓
+
+12  The kingdom believed their greatest warrior had disappeared...    ↻ Retake
+
+13  What they didn't know was that he had been training in silence.   ✓
+```
+
+No full re-record.  
+No full regeneration.  
+No rebuilding a 40-minute voice track because of one sentence.
+
+---
+
+## Built for long-form
+
+### Clone your voice
+
+Upload or record a clean 3–15 second sample and create a reusable voice for narration.
+
+### Paste long scripts
+
+Drop in a full script and RecapVox automatically breaks it into manageable sections.
+
+### Regenerate individual segments
+
+Edit one section and generate a new take without touching everything around it.
+
+### Save pronunciations
+
+Teach RecapVox recurring names and terminology once.
+
+```text
+Sung Jin-Woo  →  sung jeen-woo
+Cha Hae-In    →  chah hay-een
+Shinjuku      →  shin-joo-koo
 ```
 
 Reuse them across future projects.
 
-### 🎛 Keep channels consistent
+### Keep channels consistent
 
-Save voice, pacing, style, and other defaults around the way you publish.
+Save voices and channel profiles so recurring content keeps a consistent sound.
 
-### 📦 Export for your editor
+### Export finished narration
 
-Review your narration and export finished audio for your editing workflow.
-
-Paid plans support **WAV + MP3** exports.
+Review your project and export your finished narration as MP3 or WAV, depending on your plan.
 
 ---
 
-## Made for long-form narration
+## Hear it
 
-RecapVox works especially well for:
+The demos use the same RecapVox narration pipeline.
 
-- **Manhwa & manga recaps**
-- **Anime lore and explainers**
-- **Movie & TV recaps**
-- **YouTube documentaries**
-- **Storytelling channels**
-- **Video essays**
-- **Online courses**
-- **Tutorials and educational content**
+**Manhwa recap · Movie recap · Anime / lore**
 
-The goal is simple:
-
-> Spend less time recording narration and more time publishing.
-
----
-
-## Hear RecapVox
-
-Listen to narration generated through the RecapVox pipeline, including storytelling, calm, and fast-paced delivery.
-
-### [▶ Hear the demos on recapvox.com](https://recapvox.com/#demos)
+<p align="center">
+  <a href="https://recapvox.com/#demos">
+    <strong>▶ Listen to RecapVox</strong>
+  </a>
+</p>
 
 ---
 
 ## How it works
 
-### 1. Create your voice
+```text
+Voice Sample  →  Script  →  Generate  →  Retake a Line  →  Export
+```
 
-Upload or record a short, clean sample of your voice.
-
-### 2. Paste your script
-
-Create a project and add your long-form script. RecapVox automatically splits it into manageable segments.
-
-### 3. Generate
-
-Generate narration section by section while keeping the same voice across the project.
-
-### 4. Review & retake
-
-Preview your audio, correct pronunciations, edit text, and regenerate only the segments that need another take.
-
-### 5. Export
-
-Download the finished narration and bring it into your video or audio editor.
+1. **Create your voice** — Upload or record a short, clean reference sample.
+2. **Paste your script** — RecapVox automatically splits long-form scripts into manageable segments.
+3. **Generate** — Create narration in your cloned voice, section by section.
+4. **Review** — Listen to individual segments, edit text, and correct pronunciations.
+5. **Retake what needs fixing** — Regenerate one segment without recreating the rest of the project.
+6. **Export** — Download the finished narration and drop it into your editing workflow.
 
 ---
 
-## Plans
+## Made for creators who publish constantly
 
-Start free. Upgrade when you need more narration time.
+RecapVox is especially useful for:
 
-| Plan | Narration | Voices | Best for |
-| --- | ---: | ---: | --- |
-| **Free** | 20 min/month | 1 | Trying RecapVox |
-| **Creator** | 5 hrs/month | 1 | Growing creators |
-| **Pro** | 20 hrs/month | 3 | Weekly publishers |
-| **Studio** | 60 hrs/month | 10 | High-output & multi-channel creators |
+- Manhwa and manga recaps
+- Anime lore
+- Movie and TV recaps
+- YouTube documentaries
+- Video essays
+- Storytelling channels
+- Tutorials
+- Online courses
+- Educational content
+- Multi-channel publishing
 
-### Creator — $9.99/month
+The goal is simple:
 
-Approximately **10 × 30-minute videos** of narration per month.
+**Less time recording. More time publishing.**
 
-Includes long-form projects, segment regeneration, and WAV + MP3 exports.
+---
 
-### Pro — $19.99/month
+## Pricing
 
-Approximately **40 × 30-minute videos** per month.
+Start with **20 free minutes** every month.
 
-Adds multiple channel profiles and priority generation.
+| Plan | Narration | Voices | Built for |
+| :--- | :--- | :--- | :--- |
+| **Free** | 20 min / month | 1 | Trying your own voice |
+| **Creator** | 5 hrs / month | 1 | Growing creators |
+| **Pro** | 20 hrs / month | 3 | Weekly publishers |
+| **Studio** | 60 hrs / month | 10 | High-output and multi-channel creators |
 
-### Studio — $39.99/month
+- Creator starts at **$9.99/month**
+- Pro is **$19.99/month**
+- Studio is **$39.99/month**
 
-Approximately **120 × 30-minute videos** per month.
+Narration minutes reset each billing period. Regenerated segments count toward your allowance because they are new generations.
 
-Built for high-output creators and multiple channels, with the fastest generation queue.
+When you reach your limit, generation pauses.  
+No automatic overage charges.
 
-[**View full pricing →**](https://recapvox.com/pricing)
-
-### No surprise overages
-
-Narration minutes reset each billing period.
-
-Regenerating a segment uses narration time because it requires a new generation. When you reach your allowance, generation pauses instead of automatically charging an overage.
-
-Paid plans can be changed or cancelled through the billing portal.
+<p align="center">
+  <a href="https://recapvox.com/pricing">
+    <strong>View full pricing →</strong>
+  </a>
+</p>
 
 ---
 
 ## Voice safety
 
-RecapVox is designed for creators using **their own voice or a voice they have permission to use**.
+RecapVox is built for creators narrating with their own voice or a voice they have permission to use.
 
 - Only clone voices you own or are licensed to use
-- Consent is recorded for each voice
+- Consent is recorded for voices
 - Voice samples and projects are private to your account
 - Voices can be deleted from the app
-- Deceptive or unauthorized voice cloning is prohibited
-- Abuse can be reported to [support@recapvox.com](mailto:support@recapvox.com)
+- Deceptive or unauthorized cloning is prohibited
+- Abusive accounts can be disabled
 
-If a voice or likeness is being used without permission, contact us.
+If your voice or likeness is being used without permission, contact:  
+[support@recapvox.com](mailto:support@recapvox.com)
 
-[**Read the Voice Safety policy →**](https://recapvox.com/safety)
+[Read the Voice Safety policy →](https://recapvox.com/safety)
 
 ---
 
 ## FAQ
 
-### How much audio do I need to clone my voice?
+<details>
+<summary><strong>How much audio do I need to clone my voice?</strong></summary>
 
-A clean reference clip of about **3–15 seconds** is enough.
+About 3–15 seconds of clean reference audio is enough.
 
-### Can I fix one line without regenerating the entire voiceover?
+</details>
 
-**Yes.** That's one of the core reasons RecapVox exists.
+<details>
+<summary><strong>Can I fix one line without regenerating the entire voiceover?</strong></summary>
 
-Scripts are divided into segments, so you can edit or regenerate an individual section while keeping the rest of the project intact.
+Yes. RecapVox splits scripts into segments so you can edit or regenerate one section while keeping the rest of the project intact.
 
-### Do regenerations use my monthly minutes?
+</details>
+
+<details>
+<summary><strong>Do regenerations use my monthly minutes?</strong></summary>
 
 Yes. Every new generation uses compute, so regenerated segments count toward your narration allowance.
 
-### What happens when I run out of minutes?
+</details>
 
-Generation pauses and you can upgrade if you need additional capacity. There is **no automatic overage billing**.
+<details>
+<summary><strong>What happens when I run out of minutes?</strong></summary>
 
-### Can RecapVox remember difficult names?
+Generation pauses and you can upgrade if you need more capacity. There is no automatic overage billing.
+
+</details>
+
+<details>
+<summary><strong>Can RecapVox remember difficult names?</strong></summary>
 
 Yes. Add names and pronunciation replacements to your pronunciation library and reuse them across projects.
 
-### Is my voice private?
+</details>
 
-Voice samples and projects belong to your account. Only upload voices you own or have permission to use, and you can delete your voices from the app.
+<details>
+<summary><strong>Is my voice private?</strong></summary>
 
-### Is RecapVox just another text-to-speech generator?
+Voice samples and projects live on your account. Only upload voices you own or have permission to use, and voices can be deleted from the app.
 
-No.
+</details>
 
-RecapVox is built specifically around the **long-form creator workflow**: your voice, long scripts, segment-level retakes, reusable pronunciations, channel consistency, and finished narration exports.
-
-[**More questions →**](https://recapvox.com/faq)
+<p align="center">
+  <a href="https://recapvox.com/faq">
+    <strong>Read the full FAQ →</strong>
+  </a>
+</p>
 
 ---
 
 ## About this repository
 
-This repository is the **public product presence for RecapVox**.
+This repository is the public product presence for RecapVox.
 
 It contains product information, documentation, links, and public announcements.
 
-The RecapVox application source code and production infrastructure are maintained privately and are **not included in this repository**.
+The RecapVox application source code and production infrastructure are maintained in a private repository and are not included here.
 
 ---
 
 ## Links
 
 | | |
-| --- | --- |
-| **Website** | [recapvox.com](https://recapvox.com/) |
-| **Start Free** | [app.recapvox.com](https://app.recapvox.com/#/login) |
-| **Demos** | [recapvox.com/#demos](https://recapvox.com/#demos) |
-| **Pricing** | [recapvox.com/pricing](https://recapvox.com/pricing) |
-| **FAQ** | [recapvox.com/faq](https://recapvox.com/faq) |
-| **Voice Safety** | [recapvox.com/safety](https://recapvox.com/safety) |
-| **Terms** | [recapvox.com/terms](https://recapvox.com/terms) |
-| **Privacy** | [recapvox.com/privacy](https://recapvox.com/privacy) |
-| **Support** | [support@recapvox.com](mailto:support@recapvox.com) |
+| :--- | :--- |
+| Website | [recapvox.com](https://recapvox.com) |
+| App | [app.recapvox.com](https://app.recapvox.com) |
+| Demos | [recapvox.com/#demos](https://recapvox.com/#demos) |
+| Pricing | [recapvox.com/pricing](https://recapvox.com/pricing) |
+| FAQ | [recapvox.com/faq](https://recapvox.com/faq) |
+| Voice Safety | [recapvox.com/safety](https://recapvox.com/safety) |
+| Terms | [recapvox.com/terms](https://recapvox.com/terms) |
+| Privacy | [recapvox.com/privacy](https://recapvox.com/privacy) |
+| Support | [support@recapvox.com](mailto:support@recapvox.com) |
 
 ---
 
-## Start creating
+<p align="center">
+  <strong>Your next voiceover doesn't need another recording session.</strong>
+</p>
 
-Your next voiceover doesn't need another recording session.
+<p align="center">
+  <a href="https://app.recapvox.com/#/login">
+    <strong>Create your voice free →</strong>
+  </a>
+</p>
 
-### [Create your voice free →](https://app.recapvox.com/#/login)
-
-**RecapVox** — AI voice cloning for narration.
+<p align="center">
+  <sub>
+    RecapVox · AI voice cloning for long-form narration
+  </sub>
+</p>
